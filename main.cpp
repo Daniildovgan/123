@@ -1,10 +1,16 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Íå ïèòàéòå, õòî éäå øëÿõîì, " << std::endl;
-    std::cout << "²ä³òü ñàì³, áóäüòå äîğîãàìè," << std::endl;
-    std::cout << "Áóäüòå ñîíöåì ³ áóäüòå â³òğîì, " << std::endl;
-    std::cout << "Áóäüòå âîëÿ â ğåâîëşö³ÿõ." << std::endl;
-    std::cout << "- Òàğàñ Øåâ÷åíêî" << std::endl;
+    std::cout << "\t\t\tEvery hunter wants to know\n";
+    std::cout << "\t\t\tWhere the pheasantâ€™s flushing go,\n";
+    std::cout << "\t\t\tAnd the red-deerâ€™s hiding-place,\n";
+    std::cout << "\t\t\tAnd the whereabouts of trout;\n";
+    std::cout << "\t\t\tAnd the moments when the fox,\n";
+    std::cout << "\t\t\tLooks as if he meant to say\n";
+    std::cout << "\t\t\tSomething unprintable â€”\n";
+    std::cout << "\t\t\tOr the pheasant â€˜making play,â€™\n";
+    std::cout << "\t\t\tOr the topmost branch of pine\n";
+    std::cout << "\t\t\tWhen the sun begins to shine,\n";
+    std::cout << "\t\t\tOr the pack-ice out at sea.\n";
     return 0;
 }
