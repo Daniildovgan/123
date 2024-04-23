@@ -1,0 +1,15 @@
+#include <iostream>
+
+int main() {
+    /*
+    Виводимо текст "Hello, World!"
+    */
+    std::cout << "Hello, World!\n";
+
+    /*
+    Виводимо підпис автора
+    */
+    std::cout << "\\\\Dennis Ritchie\\\\\n";
+
+    return 0;
+}
