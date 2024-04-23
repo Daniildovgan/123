@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main() {
+    std::cout << "To be, or not to be: that is the question:\n";
+    std::cout << "Whether 'tis nobler in the mind to suffer\n";
+    std::cout << "The slings and arrows of outrageous fortune,\n";
+    std::cout << "Or to take arms against a sea of troubles,\n";
+    std::cout << "And by opposing end them?\n";
+    std::cout << "William Shakespeare\n";
+    return 0;
+}
