@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Продам цуценят.\n";
+    std::cout << "Порода: ротвейлер.\n";
+    std::cout << "..........\n";
+    std::cout << "Тел.: 222-22-22\n";
+    std::cout << "222      |   222   |\n";
+    std::cout << "22       |   22    |\n";
+    std::cout << "22       |   22    |\n";
+    std::cout << "і т.д.\n";
+    return 0;
+}
