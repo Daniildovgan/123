@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main() {
+    // Виводимо текст "Hello, World!" жовтим кольором
+    std::cout << "\033[33mHello, World!\033[0m\n";
+
+    // Виводимо підпис автора
+    std::cout << "/Bjarne Stroustrup/\n";
+
+    return 0;
+}
